@@ -5,6 +5,6 @@ This data is imported from kaggle and was used to see the patterns of covid 19 i
 1- Most affected countries
 2- Most deaths by region
 3- Most cases by region
-4- Most revoveries by region/
+4- Most recoveries by region/
 5- Cases, deaths, recovered per country and city as well
 
